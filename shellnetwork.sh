@@ -1,5 +1,5 @@
 #! /bin/bash
-##redes Manager
+##Manager networks
 #NOME : HENRIQUE LUZ RODRIGUES
 ##### : 11-04-2012
 
