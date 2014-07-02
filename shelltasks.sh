@@ -1,5 +1,8 @@
 #!/bin/bash
-##Gerenciador de Processos
+##Manager tasks
+#NOME : HENRIQUE LUZ RODRIGUES
+##### : 11-04-2012
+
 RESP="s" #Determina o loop do main
 clear
 op_1(){ #Mostrar os processos abertos
@@ -278,8 +281,7 @@ while [ "$RESP" == "s" ] || [ "$RESP" == "S" ]
 do 
 echo -e "\033[01;32m##### GERENCIDOR DE TAREFAS #####\033[01;37m"
 echo
-echo "Aluno: Pablo Gil"
-echo "Aluno: Henrique"
+echo "Henrique Luz Rodrigues"
 echo
 echo "Escolha uma das alternativas: "
 echo
