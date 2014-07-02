@@ -1,5 +1,5 @@
 #! /bin/bash
-##Manager networks
+##Manager network
 #NOME : HENRIQUE LUZ RODRIGUES
 ##### : 11-04-2012
 
